@@ -1,5 +1,10 @@
 # preps-24-webdev
 
+## THE TASK
+1. Simple aja guys, kalian edit template website CV ini sesuai dengan CV kalian, tinggal ubah-ubah isinya aja kok
+2. Kalau udah selesai, nanti kumpulin di form ini yaa [Form Pengumpulan](https://docs.google.com/forms/d/e/1FAIpQLScxIajUZYceEQvu0DBJiYhYzT5rJlljKf4JMqsdmM14MqXS_A/viewform?usp=sharing)
+3. Kumpulkan dalam format file .zip dan penamaan file sebagai berikut: "Nama_NRP_WebdevJuniorPreps.zip"
+
 ## How to clone the repo?
 1. Lakukan instalasi git, ini referensi buat cara installnya: [Video Tutorial Git Installation](https://www.youtube.com/watch?v=iYkLrXobBbA)
 2. Klik menu Windows dan cari Command Prompt.
