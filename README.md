@@ -3,7 +3,7 @@
 ## THE TASK
 1. Simple aja guys, kalian edit template website CV ini sesuai dengan CV kalian, tinggal ubah-ubah isinya aja kok
 2. Kalau udah selesai, nanti kalian download as PDF melalui tombol yang ada di paling bawah di website CV kalian
-3. Setelah itu, hasil pdfnya dikumpulin di form ini yaa [Form Pengumpulan](its.id/m/FormPenugasanRistek2024)
+3. Setelah itu, hasil pdfnya dikumpulin di form ini yaa [Form Pengumpulan](https://docs.google.com/forms/d/e/1FAIpQLSc8Ido5mVVXGfGFR82-fxs36fN0ZikAoKtG02AvYvTaF7RsSA/viewform)
 
 ## How to clone the repo?
 1. Lakukan instalasi git, ini referensi buat cara installnya: [Video Tutorial Git Installation](https://www.youtube.com/watch?v=iYkLrXobBbA)
